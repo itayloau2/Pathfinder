@@ -1,0 +1,16 @@
+# Visual Studio / Rider files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Unreal Engine generated folders (CRITICAL)
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Local configuration
+Config/User*.ini
